@@ -29,7 +29,8 @@ __My absolute favorites__
 
 __⚡ Github Stats__
 
-<img src="https://github-readme-stats.vercel.app/api?username=imhemantchaubey&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imhemantchaubey&show_icons=true&hide_border=true&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api?username=imhemantchaubey&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imhemantchaubey&show_icons=true&hide_border=true&layout=compact&theme=dark"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=imhemantchaubey&theme=dark"/>
 
 <p align="center">Show some ❤ by <img src="https://imgur.com/o7ncZFp.jpg" height="16px" width="16px"> some repositories...</p>
