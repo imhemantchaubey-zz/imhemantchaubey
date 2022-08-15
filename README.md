@@ -27,7 +27,10 @@ __My absolute favorites__
 - 📰 reading tech blogs in my free time...
 - 🍕 meetups & tech events...
 
-__⚡ Github Stats__
+__Languages I know__
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+
+__Github Stats__
 
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=imhemantchaubey&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" />
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imhemantchaubey&show_icons=true&hide_border=true&layout=compact&theme=dark"/>
