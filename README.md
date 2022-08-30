@@ -44,8 +44,15 @@ __Frameworks I know__
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=imhemantchaubey&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" /> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imhemantchaubey&show_icons=true&hide_border=true&layout=compact&theme=dark"/>
 </details>
 
+<details>
+  <summary><b>Github Streaks</b></summary></br>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=imhemantchaubey&theme=dark&hide_border=true"/>
+</details>
 
-<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=imhemantchaubey&theme=dark&hide_border=true"/>
-<img height="160em" src="https://activity-graph.herokuapp.com/graph?username=imhemantchaubey&theme=dracula"/>
+<details>
+  <summary><b>Github Activity Graph</b></summary></br>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=imhemantchaubey&theme=dark&hide_border=true"/>
+</details>
+
 
 <p align="center">Show some ❤ by <img src="https://imgur.com/o7ncZFp.jpg" height="16px" width="16px"> some repositories...</p>
