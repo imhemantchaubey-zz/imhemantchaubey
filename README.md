@@ -51,7 +51,7 @@ __Frameworks I know__
 
 <details>
   <summary><b>Github Activity Graph</b></summary></br>
-  <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=imhemantchaubey&theme=dark&hide_border=true"/>
+  <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=imhemantchaubey&theme=dracula&hide_border=true"/>
 </details>
 
 
