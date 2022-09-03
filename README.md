@@ -39,6 +39,11 @@ __Frameworks I know ❄__
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/> 
 
+<details>
+  <summary><b>Github Activity Graph 🌟</b></summary></br>
+  <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=imhemantchaubey&theme=dracula&hide_border=true"/>
+</details>
+
 <details>	
   <summary><b>Github Stats 🍀</b></summary></br>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=imhemantchaubey&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" /> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imhemantchaubey&show_icons=true&hide_border=true&layout=compact&theme=dark"/>
@@ -47,11 +52,6 @@ __Frameworks I know ❄__
 <details>
   <summary><b>Github Streaks 🔥</b></summary></br>
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=imhemantchaubey&theme=dark&hide_border=true"/>
-</details>
-
-<details>
-  <summary><b>Github Activity Graph 🌟</b></summary></br>
-  <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=imhemantchaubey&theme=dracula&hide_border=true"/>
 </details>
 
 ------
