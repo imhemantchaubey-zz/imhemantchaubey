@@ -55,7 +55,7 @@ __Frameworks I know ❄__
 </details>
 
 __Find me on 🌍__
-- [![Facebook Badge](https://camo.githubusercontent.com/8f245234577766478eaf3ee72b0615e99bb9ef3eaa56e1c37f75692811181d5c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f66616365626f6f6b2e737667)](https://www.facebook.com/imhemantchaubey/)
+- <a href="https://www.facebook.com/imhemantchaubey"><img src="https://camo.githubusercontent.com/8f245234577766478eaf3ee72b0615e99bb9ef3eaa56e1c37f75692811181d5c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f66616365626f6f6b2e737667" height="40px"> Facebook</a>
 
 ------
 <p align="center">Show some ❤ by <img src="https://imgur.com/o7ncZFp.jpg" height="16px" width="16px"> some repositories...</p>
