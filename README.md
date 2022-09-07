@@ -54,8 +54,8 @@ __Frameworks I know ❄__
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=imhemantchaubey&theme=dark&hide_border=true"/>
 </details>
 
-__Find me on 🌍__
-- <a href="https://www.facebook.com/imhemantchaubey"><img src="https://camo.githubusercontent.com/8f245234577766478eaf3ee72b0615e99bb9ef3eaa56e1c37f75692811181d5c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f66616365626f6f6b2e737667" height="20px"></a> Facebook
+<b><img src="https://i.imgur.com/yQHTmCW.png" width="18" /> Where to find me</b>
+<a href="https://www.facebook.com/imhemantchaubey"> <img alt="facebook" width="40px" src="https://camo.githubusercontent.com/8f245234577766478eaf3ee72b0615e99bb9ef3eaa56e1c37f75692811181d5c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f66616365626f6f6b2e737667" /></a> <a href="https://www.instagram.com/imhemantchaubey"> <img alt="instagram" width="40px" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" /></a> <a href="https://telegram.im/@imhemantchaubey"> <img alt="telegram" width="40px" src="https://i.imgur.com/8uCq4fi.png" /> </a> <a href="https://open.spotify.com/user/3157h7mwmuodojr2hk62ck2vgq5i"> <img alt="spotify" width="40px" src="https://i.imgur.com/TuGJlcZ.png" /> </a> <a href="https://myanimelist.net/profile/imhemantchaubey"> <img alt="myanimelist" width="40px" src="https://i.imgur.com/TnZcuA4.png" /></a> 
 
 ------
 <p align="center">Show some ❤ by <img src="https://imgur.com/o7ncZFp.jpg" height="16px" width="16px"> some repositories...</p>
