@@ -3,14 +3,14 @@
 <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=imhemantchaubey&color=ED5007&style=flat-square&logo">
 <a href="https://www.linkedin.com/in/imhemantchaubey"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"></a>
 <a href="https://www.github.com/imhemantchaubey"><img src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white"></a>
-<a href="https://www.twitter.com/imhemantchaubey"><img src="https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white"></a></p></br>
+<a href="https://www.twitter.com/imhemantchaubey"><img src="https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white"></a></p>
 
 __Glad to see you here! 👋__
 - I'm a third year undergraduate in Computer Science 🎓 from TCET ( Thakur College of Engineering and Technology ), Mumbai, India...
 - I'm a passionate learner who's always willing to learn and work across technologies and domains...
 - I love to explore new technologies and leverage them to solve real-life problems...
 - I'm currently into FullStack Development ❄ and working on my Data Structures and Algorithms...
-- Apart from these, I have also worked on some Android & Machine Learning projects...</br>
+- Apart from these, I have also worked on some Android & Machine Learning projects...
 
 __More about me and my projects 😎__
 - 🛠 I’m currently working with Javascript, Reactjs, Nodejs, MongoDB, Java, etc...
@@ -18,7 +18,7 @@ __More about me and my projects 😎__
 - 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/imhemantchaubey)
 - 💬 Ask me about anything [here](https://www.linkedin.com/in/imhemantchaubey)! I am happy to help...
 - 📫 How to reach me: imhemantrchaubey@gmail.com
-- 📝 Checkout my [Resume]()</br>
+- 📝 Checkout my [Resume]()
 
 __My absolute favorites 💚__
 - 💻 exploring new tools and technologies and building cool stuffs...
@@ -27,16 +27,13 @@ __My absolute favorites 💚__
 - 📰 reading tech blogs in my free time...
 - 🍕 meetups & tech events...
 
-__Tools & Technologies I'm well versed with 🛠__
-
+<b>Tools & Technologies I'm well versed with 🛠</b>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/centos/centos-original.svg" alt="centos" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> 
 
-__Languages I know 💻__
-
+<b>Languages I know 💻</b>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
 
-__Frameworks I know ❄__
-
+<b>Frameworks I know ❄</b>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/> 
 
 <details>
@@ -54,7 +51,7 @@ __Frameworks I know ❄__
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=imhemantchaubey&theme=dark&hide_border=true"/>
 </details>
 
-<b>Where to find me 🌍</b></br></br>
+<b>Where to find me 🌍</b></br>
 <a href="https://www.facebook.com/imhemantchaubey"> <img alt="facebook" width="40px" src="https://camo.githubusercontent.com/8f245234577766478eaf3ee72b0615e99bb9ef3eaa56e1c37f75692811181d5c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f66616365626f6f6b2e737667" /></a> <a href="https://www.instagram.com/imhemantchaubey"> <img alt="instagram" width="40px" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" /></a> <a href="https://telegram.im/@imhemantchaubey"> <img alt="telegram" width="40px" src="https://i.imgur.com/8uCq4fi.png" /> </a> <a href="https://open.spotify.com/user/3157h7mwmuodojr2hk62ck2vgq5i"> <img alt="spotify" width="40px" src="https://i.imgur.com/TuGJlcZ.png" /> </a> <a href="https://myanimelist.net/profile/imhemantchaubey"> <img alt="myanimelist" width="40px" src="https://i.imgur.com/TnZcuA4.png" /></a> 
 
 ------
