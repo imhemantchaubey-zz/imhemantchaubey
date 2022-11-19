@@ -18,7 +18,7 @@ __More about me and my projects 😎__
 - 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/imhemantchaubey)
 - 💬 Ask me about anything [here](https://www.linkedin.com/in/imhemantchaubey)! I am happy to help...
 - 📫 How to reach me: imhemantrchaubey@gmail.com
-- 📝 Checkout my [Resume](https://drive.google.com/file/d/1c7lx-pQsoQi7p7fc2i1A7Upyi8aUIWmg/view)
+- 📝 Checkout my [Resume](https://drive.google.com/file/d/1RKDCflrqQViT1tZRooUYP20bUaKLRgLT/view)
 
 __My absolute favorites 💚__
 - 💻 exploring new tools and technologies and building cool stuffs...
